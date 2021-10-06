@@ -1,3 +1,8 @@
+### React project
+
+![screenshot](images/accordion-1.png)
+![screenshot](images/accordion-2.png)
+
 #### Idea
 
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
